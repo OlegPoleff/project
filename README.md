@@ -1,4 +1,3 @@
-# project
-first proiect
+# Полев Олег
 
-update from git kraken
+Мои домашнии задания
